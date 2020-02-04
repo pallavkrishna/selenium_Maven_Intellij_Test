@@ -1,8 +1,7 @@
-package practice.interview.questions.interview2.selenium;
+package interview.questions.interview2.selenium;
 
-import Helper.testng.examples.TestBase;
+import interview.questions.TestSuiteBase;
 import org.testng.annotations.Test;
-import practice.interview.questions.TestSuiteBase;
 
 public class LaunchBrowser extends TestSuiteBase {
 

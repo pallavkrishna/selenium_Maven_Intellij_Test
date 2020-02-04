@@ -1,4 +1,4 @@
-package practice.interview.questions.interview2.selenium;
+package interview.questions.interview2.selenium;
 
 import Helper.testng.examples.TestBase;
 import io.github.bonigarcia.wdm.WebDriverManager;

@@ -1,4 +1,4 @@
-package practice.interview.questions;
+package interview.questions;
 
 import Helper.testng.examples.TestBase;
 import org.testng.annotations.BeforeMethod;
