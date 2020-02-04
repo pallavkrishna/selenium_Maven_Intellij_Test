@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="practice.testng.examples.IntellijSmokeTest" duration-ms="38834" started-at="2020-01-31T09:24:33 IST" finished-at="2020-01-31T09:25:12 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="38834" started-at="2020-01-31T09:24:33 IST" finished-at="2020-01-31T09:25:12 IST">
+      <class name="practice.testng.examples.IntellijSmokeTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:practice.testng.examples.IntellijSmokeTest@3e6fa38a]" name="beforeTest" is-config="true" duration-ms="62" started-at="2020-01-31T09:24:33 IST" finished-at="2020-01-31T09:24:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:practice.testng.examples.IntellijSmokeTest@3e6fa38a]" name="test" duration-ms="38693" started-at="2020-01-31T09:24:33 IST" finished-at="2020-01-31T09:25:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:practice.testng.examples.IntellijSmokeTest@3e6fa38a]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-01-31T09:25:12 IST" finished-at="2020-01-31T09:25:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- practice.testng.examples.IntellijSmokeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- practice.testng.examples.IntellijSmokeTest -->
+</testng-results>
